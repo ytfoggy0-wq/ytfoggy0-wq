@@ -1,16 +1,19 @@
-## Hi there 👋
+## Привет! 👋
 
-<!--
-**ytfoggy0-wq/ytfoggy0-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я учусь разработке — прохожу путь от простых скриптов до полноценных приложений.
+Ниже — проекты, которые уже можно посмотреть и пощупать вживую.
 
-Here are some ideas to get you started:
+### 🤖 [echo-bot-tg](https://github.com/ytfoggy0-wq/echo-bot-tg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Телеграм-бот приёма заявок: диалог с клиентом, категории и статусы заявок,
+права администратора, выгрузка в Excel. Задеплоен и работает 24/7.
+
+**Живой бот:** [@my_echo_test_1_bot](https://t.me/my_echo_test_1_bot)
+
+### 📊 [content-zavod](https://github.com/ytfoggy0-wq/content-zavod)
+
+Инструмент анализа Instagram-конкурентов: собирает Reels, транскрибирует их,
+считает, какие ролики выстрелили сильнее обычного — чтобы находить идеи для
+переснятия. Карточная витрина с превью, AI-описаниями и фильтрами.
+
+**Живая витрина:** [ytfoggy0-wq.github.io/content-zavod](https://ytfoggy0-wq.github.io/content-zavod/)
