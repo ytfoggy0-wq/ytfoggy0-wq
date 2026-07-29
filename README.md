@@ -10,3 +10,12 @@
 переснятия. Карточная витрина с превью, AI-описаниями и фильтрами.
 
 **Живая витрина:** [ytfoggy0-wq.github.io/content-zavod](https://ytfoggy0-wq.github.io/content-zavod/)
+
+### 🦷 [dental-landing](https://github.com/ytfoggy0-wq/dental-landing)
+
+Лендинг вымышленной стоматологической клиники — кейс на дизайн, анимации и
+вёрстку, а не на бизнес-логику. Мятно-бирюзовая палитра, крупная типографика,
+глянцевая 3D-графика в hero, скролл-анимации, адаптив. Чистый HTML/CSS/JS,
+без сборки.
+
+**Живая витрина:** [ytfoggy0-wq.github.io/dental-landing](https://ytfoggy0-wq.github.io/dental-landing/)
