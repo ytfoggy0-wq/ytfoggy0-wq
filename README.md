@@ -22,7 +22,7 @@
 считает, какие ролики выстрелили сильнее обычного — чтобы находить идеи для
 переснятия. Карточная витрина с превью, AI-описаниями и фильтрами.
 
-**Живая витрина:** [ytfoggy0-wq.github.io/content-zavod](https://ytfoggy0-wq.github.io/content-zavod/)
+**Живая витрина:** [content-zavod-six.vercel.app](https://content-zavod-six.vercel.app)
 
 ### 🦷 [dental-landing](https://github.com/ytfoggy0-wq/dental-landing)
 
